@@ -1,4 +1,4 @@
-Stage 4 – Final Analysis, Prompt Engineering & Recommendation (10 Points)
+Stage 4 – Final Analysis, Prompt Engineering & Recommendation
 
 A. Exposure Summary
 
