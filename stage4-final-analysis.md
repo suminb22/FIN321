@@ -1,4 +1,5 @@
 Stage 4 – Final Analysis, Prompt Engineering & Recommendation (10 Points)
+
 A. Exposure Summary
 The company expects to receive GBP 12,500,000 in one year, which exposes it to foreign exchange risk. As a USD-based firm, any depreciation of the British pound (GBP) against the U.S. dollar will reduce the USD value of the receivable and negatively impact reported revenue.
 The primary objective of this analysis is to evaluate hedging strategies that can protect the firm’s USD cash flows while balancing cost, flexibility, and risk exposure.
